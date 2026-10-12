@@ -1,0 +1,7 @@
+{
+  "appId": "com.turbopursuit.game",
+  "appName": "Turbo Pursuit",
+  "webDir": "www",
+  "backgroundColor": "#090b12",
+  "android": { "allowMixedContent": false }
+}
